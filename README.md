@@ -26,8 +26,9 @@
 Hi, I'm **yuxuetr (鱼雪)** — an independent **Full-Stack, AI & Rust Remote Developer** with 10+ years of engineering experience spanning C++/Linux backend services, Python deep learning (CV, NLP & 3D medical imaging), and modern Rust & TypeScript product engineering.
 
 - **Rust & Systems**: Building high-reliability backends with `Axum`, cross-platform desktop apps with `Tauri`, WebAssembly modules, and full-stack interfaces with `Dioxus`.
-- **AI & LLM Engineering**: Designing production-grade LLM agents, structured JSON Schema outputs, RAG pipelines, and Rust ML workflows (`Candle`, `Burn`, `LanceDB`, `Apache Arrow`).
-- **Remote & Consulting**: Available for remote engineering roles, technical consulting, and end-to-end product delivery — 欢迎通过邮件或微信联系技术咨询与项目合作。
+- **Agent Systems & AI Apps**: Architecting production-grade AI Agent systems (ReAct, typed subagents, DAG workflows, `MCP` tool ecosystems), structured JSON Schema outputs, and RAG pipelines.
+- **LLM Deployment, Fine-Tuning & Eval**: Hands-on across LLM inference & deployment, domain fine-tuning (SFT / LoRA), automated LLM evaluation & benchmarking systems, and Rust ML/data stacks (`Candle`, `Burn`, `LanceDB`, `Apache Arrow`).
+- **Remote & Consulting**: Available for remote engineering roles, AI/Rust technical consulting, and end-to-end product delivery — 欢迎通过邮件或微信联系大模型落地、Agent 系统开发与技术咨询合作。
 
 ---
 

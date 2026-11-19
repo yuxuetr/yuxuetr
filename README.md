@@ -35,11 +35,12 @@ Hi, I'm **yuxuetr (鱼雪)** — an independent **Full-Stack, AI & Rust Remote D
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**dioxuspress**](https://github.com/dioxuspress/dioxuspress) · [Site](https://dioxuspress.dev) | Pure-Rust fullstack docs, blog & community engine on Dioxus 0.7, Axum & Tantivy | `Rust` `Dioxus` `Axum` |
-| [**dioxus-ui**](https://github.com/dioxuspress/dioxus-ui) · [Showcase](https://ui.dioxuspress.dev) | 84 shadcn/ui-style components for Dioxus 0.7 with headless primitives & `dxui` CLI | `Rust` `Dioxus` `Tailwind` |
-| [**DataOmni**](https://github.com/dataomni-rs/DataOmni) · [Site](https://dataomni.dev) | Native Rust + Tauri 2 desktop client for SQL, MongoDB, Redis, Neo4j & Elasticsearch with write guardrails & read-only MCP | `Rust` `Tauri 2` `MCP` |
-| [**yanshi**](https://github.com/yeying-ai/yanshi) · [Site](https://yanshi.dev) | Multimodal content-production runtime in Rust: turn ideas, repos & PDFs into PPTX slides, narrated 1080p videos & Typst PDFs via DAGs, ReAct agents & MCP | `Rust` `AI Agents` `MCP` |
+| [**dioxuspress**](https://github.com/dioxuspress/dioxuspress)&nbsp;·&nbsp;[Site](https://dioxuspress.dev) | Pure-Rust fullstack docs, blog & community engine on Dioxus 0.7, Axum & Tantivy | `Rust` `Dioxus` `Axum` |
+| [**dioxus-ui**](https://github.com/dioxuspress/dioxus-ui)&nbsp;·&nbsp;[Site](https://ui.dioxuspress.dev) | 84 shadcn/ui-style components for Dioxus 0.7 with headless primitives & `dxui` CLI | `Rust` `Dioxus` `Tailwind` |
+| [**DataOmni**](https://github.com/dataomni-rs/DataOmni)&nbsp;·&nbsp;[Site](https://dataomni.dev) | Native Rust + Tauri 2 desktop client for SQL, MongoDB, Redis, Neo4j & Elasticsearch with write guardrails & read-only MCP | `Rust` `Tauri 2` `MCP` |
+| [**yanshi**](https://github.com/yeying-ai/yanshi)&nbsp;·&nbsp;[Site](https://yanshi.dev) | Multimodal content-production runtime in Rust: turn ideas, repos & PDFs into PPTX slides, narrated 1080p videos & Typst PDFs via DAGs, ReAct agents & MCP | `Rust` `AI Agents` `MCP` |
 | [**phonon**](https://github.com/yeying-ai/phonon) | Comprehensive Rust audio processing & AI podcast engine — DSP, EBU R128 LUFS, TTS/STT, Axum API, MCP server, WASM & Dioxus Studio | `Rust` `Audio DSP` `AI` |
+| [**seekcli**](https://github.com/yeying-ds/seekcli)&nbsp;·&nbsp;[Site](https://yeying-ds.github.io/seekcli/) | Local Rust coding agent for the terminal — ReAct loop, typed subagents, curated skills, clipboard vision, safety policy gate & MCP | `Rust` `CLI` `Agent` |
 | [**axum-template**](https://github.com/yuxuetr/axum-template) | Generalized, production-oriented web application template for Rust Axum (`32+ ★`) | `Rust` `Axum` `Tokio` |
 | [**rust-template**](https://github.com/yuxuetr/rust-template) | Ready-to-use `cargo-generate` Rust project starter template with tooling & project conventions | `Rust` `Template` `CLI` |
 

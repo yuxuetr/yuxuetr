@@ -1,0 +1,27 @@
+name: Sync Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://yuxuetr.com/blog/rss.xml"
+          max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "- [$title]($url) · `$date`$newline"
+          commit_message: "chore(readme): update latest blog posts"

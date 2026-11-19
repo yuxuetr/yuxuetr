@@ -35,6 +35,8 @@ Hi, I'm **yuxuetr (鱼雪)** — an independent **Full-Stack, AI & Rust Remote D
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**dioxuspress**](https://github.com/dioxuspress/dioxuspress) · [Site](https://dioxuspress.dev) | Pure-Rust fullstack docs, blog & community engine on Dioxus 0.7, Axum & Tantivy | `Rust` `Dioxus` `Axum` |
+| [**dioxus-ui**](https://github.com/dioxuspress/dioxus-ui) · [Showcase](https://ui.dioxuspress.dev) | 84 shadcn/ui-style components for Dioxus 0.7 with headless primitives & `dxui` CLI | `Rust` `Dioxus` `Tailwind` |
 | [**axum-template**](https://github.com/yuxuetr/axum-template) | Generalized, production-oriented web application template for Rust Axum (`32+ ★`) | `Rust` `Axum` `Tokio` |
 | [**candle_ml_examples**](https://github.com/yuxuetr/candle_ml_examples) | Machine learning & model inference examples in Rust using HuggingFace Candle | `Rust` `Candle` `ML` |
 | [**rust-llm-output-json-format**](https://github.com/yuxuetr/rust-llm-output-json-format) | Industrial-grade Rust LLM structured output with JSON Schema validation | `Rust` `LLM` `JSON Schema` |

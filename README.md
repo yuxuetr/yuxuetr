@@ -37,12 +37,11 @@ Hi, I'm **yuxuetr (鱼雪)** — an independent **Full-Stack, AI & Rust Remote D
 | :--- | :--- | :--- |
 | [**dioxuspress**](https://github.com/dioxuspress/dioxuspress) · [Site](https://dioxuspress.dev) | Pure-Rust fullstack docs, blog & community engine on Dioxus 0.7, Axum & Tantivy | `Rust` `Dioxus` `Axum` |
 | [**dioxus-ui**](https://github.com/dioxuspress/dioxus-ui) · [Showcase](https://ui.dioxuspress.dev) | 84 shadcn/ui-style components for Dioxus 0.7 with headless primitives & `dxui` CLI | `Rust` `Dioxus` `Tailwind` |
+| [**DataOmni**](https://github.com/dataomni-rs/DataOmni) · [Site](https://dataomni.dev) | Native Rust + Tauri 2 desktop client for SQL, MongoDB, Redis, Neo4j & Elasticsearch with write guardrails & read-only MCP | `Rust` `Tauri 2` `MCP` |
+| [**yanshi**](https://github.com/yeying-ai/yanshi) · [Site](https://yanshi.dev) | Multimodal content-production runtime in Rust: turn ideas, repos & PDFs into PPTX slides, narrated 1080p videos & Typst PDFs via DAGs, ReAct agents & MCP | `Rust` `AI Agents` `MCP` |
+| [**phonon**](https://github.com/yeying-ai/phonon) | Comprehensive Rust audio processing & AI podcast engine — DSP, EBU R128 LUFS, TTS/STT, Axum API, MCP server, WASM & Dioxus Studio | `Rust` `Audio DSP` `AI` |
 | [**axum-template**](https://github.com/yuxuetr/axum-template) | Generalized, production-oriented web application template for Rust Axum (`32+ ★`) | `Rust` `Axum` `Tokio` |
-| [**candle_ml_examples**](https://github.com/yuxuetr/candle_ml_examples) | Machine learning & model inference examples in Rust using HuggingFace Candle | `Rust` `Candle` `ML` |
-| [**rust-llm-output-json-format**](https://github.com/yuxuetr/rust-llm-output-json-format) | Industrial-grade Rust LLM structured output with JSON Schema validation | `Rust` `LLM` `JSON Schema` |
-| [**deepseek_agent**](https://github.com/yuxuetr/deepseek_agent) | Rust + DeepSeek AI Agent and RAG architecture practices | `Rust` `AI Agent` `RAG` |
-| [**markmap-api**](https://github.com/yuxuetr/markmap-api) | Serverless MarkMap mindmap rendering service built for LLMs on Cloudflare Workers | `JavaScript` `Cloudflare` `LLM` |
-| [**todo-pomodoro**](https://github.com/yuxuetr/todo-pomodoro) | Lightweight cross-platform Pomodoro & task desktop app | `Rust` `Tauri` `TypeScript` |
+| [**rust-template**](https://github.com/yuxuetr/rust-template) | Ready-to-use `cargo-generate` Rust project starter template with tooling & project conventions | `Rust` `Template` `CLI` |
 
 ---
 

@@ -60,8 +60,7 @@ Hi, I'm **yuxuetr (鱼雪)** — an independent **Full-Stack, AI & Rust Remote D
 
 ### Latest from Blog · 最新文章
 
-<!-- BLOG-POST-LIST:START -->
-- [关于我](https://yuxuetr.com/blog/about) · `2026-09-08`
+<!-- BLOG-POST-LIST:START -->- [关于我](https://yuxuetr.com/blog/about) · `2026-09-08`
 - [拒绝“玩具化”：用 Rust + JSON Schema 构建工业级 LLM 智能体](https://yuxuetr.com/blog/2026/01/18/rust-llm-structured-output) · `2026-01-18`
 - [Python 的 Rust 化时刻：用 Pydantic 重构你的编程思维](https://yuxuetr.com/blog/2026/01/10/python-struct) · `2026-01-10`
 - [编程范式的辩证回归：在 C 与 OOP 之间寻找“刚刚好”--Rust](https://yuxuetr.com/blog/2026/01/10/the-better-programming) · `2026-01-10`
